@@ -1,0 +1,15 @@
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\bin\Debug\net6.0\hometask-9.exe
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\bin\Debug\net6.0\hometask-9.deps.json
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\bin\Debug\net6.0\hometask-9.runtimeconfig.json
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\bin\Debug\net6.0\hometask-9.dll
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\bin\Debug\net6.0\hometask-9.pdb
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\hometask-9.csproj.AssemblyReference.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\hometask-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\hometask-9.AssemblyInfoInputs.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\hometask-9.AssemblyInfo.cs
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\hometask-9.csproj.CoreCompileInputs.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\hometask-9.dll
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\refint\hometask-9.dll
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\hometask-9.pdb
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\hometask-9.genruntimeconfig.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-9\obj\Debug\net6.0\ref\hometask-9.dll
